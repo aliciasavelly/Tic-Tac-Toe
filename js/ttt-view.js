@@ -64,7 +64,6 @@ class View {
         $("<h2>Game over! It was a tie!</h2>").insertAfter($("figure"));
       }
     }
-
   }
 
   setupBoard() {
