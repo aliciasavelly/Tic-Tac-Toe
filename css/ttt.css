@@ -1,0 +1,42 @@
+h1, h2 {
+  text-align: center;
+}
+
+ul {
+  margin: auto;
+}
+
+ul {
+  width: 600px;
+  height: 600px;
+  list-style: none;
+  padding: 0px;
+  border: 5px solid black;
+}
+
+li {
+  float: left;
+  width: 190px;
+  height: 190px;
+  border: 5px solid black;
+  background-color: pink;
+  text-align: center;
+  font-size: 200px;
+  line-height: 195px;
+}
+
+/* in ttt-view.js setupBoard method about that=this assignment */
+/*
+$ul.css('width', '600px');
+$ul.css('height', '600px');
+$ul.css('list-style', 'none');
+$ul.css('padding', '0px');
+$ul.css('border', '5px solid black');
+$("li").css('float', 'left');
+$("li").css('width', '190px');
+$("li").css('height', '190px');
+$("li").css('border', '5px solid black');
+$("li").css('background-color', 'pink');
+$("li").css('text-align', 'center');
+$("li").css('font-size', '200px');
+$("li").css('line-height', '195px');*/
